@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3550176450",
+    "project_id": "miniphotovault",
+    "storage_bucket": "miniphotovault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3550176450:android:0b67bfc57e7b8853f9875b",
+        "android_client_info": {
+          "package_name": "com.miniphotovault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUxVwtpKFpWLwJFaTSqUGMigWv_I2exU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
